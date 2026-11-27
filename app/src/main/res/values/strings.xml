@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FRIDAY</string>
+    <string name="accessibility_desc">Allows FRIDAY AI Action Agent to read screen elements, move the visible cursor, click, type, scroll, and automate phone tasks offline or online.</string>
+</resources>
